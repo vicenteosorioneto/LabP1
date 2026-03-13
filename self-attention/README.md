@@ -267,12 +267,7 @@ Para expandir este projeto:
 - "Attention is All You Need" (Vaswani et al., 2017)
 - https://arxiv.org/abs/1706.03762
 
-## 📝 Licença
-
-Código educacional - Livre para usar e modificar.
-
 ---
 
-**Autor:** Laboratório de Programação (LabP1)  
-**Data:** 2026  
+**Autor:** Partes geradas/complementadas com IA, revisadas por [Vicente]
 **Status:** ✅ Pronto para uso
